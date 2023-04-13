@@ -1,5 +1,5 @@
 <h1 align="center">
     <a href="https://github.com/cyl94700">
-        <img src="github-header-image_02.png" alt="header"/>
+        <img src="image-header.png" alt="header" width="400" height="200"/>
     </a>
 </h1>
