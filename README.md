@@ -27,11 +27,10 @@
   <img align="center" alt="pytest" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg">
   </a>
   <a href="https://flake8.pycqa.org/en/latest/" target="_blank">
-  <img align="center" alt="flake8" height="35" width="60" src="https://img.shields.io/badge/flake8-blue?logo=python&style=flat-square">
-  </a>  
-
+  <img align="center" alt="flake8" height="35" width="50" src="https://img.shields.io/badge/flake8-blue?">
+  </a>
   <a href="https://coverage.readthedocs.io/en/7.2.3/">
-    <img align="center" alt="logo" height="35" width="45" src="https://coverage.readthedocs.io/en/7.2.3/_static/sleepy-snake-circle-150.png">
+    <img align="center" alt="logo" height="35" width="40" src="https://coverage.readthedocs.io/en/7.2.3/_static/sleepy-snake-circle-150.png">
   </a>
   <a href="https://www.djangoproject.com/">
   <img align="center" alt="Django" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
@@ -40,7 +39,7 @@
   <img align="center" alt="Flask" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   </a>
   <a href="https://www.javascript.com/">
-  <img align="center" alt="js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </a>
   <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5/">
   <img align="center" alt="html5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
