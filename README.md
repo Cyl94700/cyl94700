@@ -71,10 +71,12 @@
   <a href="https://www.jetbrains.com/pycharm/">
   <img align="center" alt="pycharm" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
   </a>
+</p>
+<p style="text-align:center;margin-left:-20%;">
   <a href="https://www.postman.com/">
   <img align="center" alt="postman" height="35" width="45" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
   </a>
   <a href="https://git-scm.com/">
   <img align="center" alt="git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </a>
-<p>
+</p>
